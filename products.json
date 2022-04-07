@@ -1,11 +1,12 @@
-{
+
+ {
   "products": [
     { "id": 0, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/320x400/L-111(1).webp",
       "material": "wood",
       "type": 1,
       "name": "Wood_01", 
-      "text": "w1",
+      "text": "Text",
       "size": [100, 100, 100],
       "price": "100"
     },
@@ -27,21 +28,5 @@
       "size": [100, 100, 100],
       "price": "100"
     }
-  ],
-
-  "productTypes": [
-    { "id": 0, 
-      "imageUrl": "https://stavrosdecor.com/uploads/categories/320x240/lbalyasina_310_206.webp",
-      "material": "wood",
-      "type": 1,
-      "name": "Балясины"
-    },
-    { "id": 1, 
-      "imageUrl": "https://stavrosdecor.com/uploads/categories/320x240/lbalyasina_310_206.webp",
-      "material": "wood",
-      "type": 1,
-      "name": "Балясины"
-    }
   ]
 }
- 
