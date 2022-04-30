@@ -114,31 +114,37 @@
     { "id": 0, 
       "imageUrl": "https://stavrosdecor.com/uploads/categories/320x240/lbalyasina_310_206.webp",
       "material": "wood",
+      "type": "Балясины",
       "name": "Балясины"
     },
     { "id": 1, 
       "imageUrl": "https://stavrosdecor.com/uploads/categories/320x240/mn_310_206.webp",
       "material": "wood",
+      "type": "Ножки",
       "name": "Ножки"
     },
     { "id": 2, 
       "imageUrl": "https://stavrosdecor.com/uploads/categories/320x240/karnizplintus.webp",
       "material": "wood",
+      "type": "Столбы для лестниц",
       "name": "Столбы для лестниц"
     },
     { "id": 3, 
       "imageUrl": "https://stavrosdecor.com/uploads/categories/320x240/mldecor.webp",
       "material": "polyurethane",
+      "type": "Молдинги",
       "name": "Молдинги"
     },
     { "id": 4, 
       "imageUrl": "https://stavrosdecor.com/uploads/categories/320x240/kapitel-pu-2019.webp",
       "material": "polyurethane",
+      "type": "Капители",
       "name": "Капители"
     },
     { "id": 5, 
       "imageUrl": "https://stavrosdecor.com/uploads/categories/320x240/nakladka-pu-2019.webp",
       "material": "polyurethane",
+      "type": "Накладки",
       "name": "Накладки"
     }
   ]
