@@ -7,7 +7,8 @@
       "name": "Балясина_1", 
       "text": "Text",
       "size": [100, 100, 100],
-      "price": "100"
+      "price": "100",
+      "count": "0"
     },
     { "id": 1, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/L-120_22866.jpg",
@@ -16,7 +17,8 @@
       "name": "Балясина_2", 
       "text": "r3",
       "size": [100, 100, 100],
-      "price": "200"
+      "price": "200",
+      "count": "0"
     },
     { "id": 2, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/MN-191_22853.jpg",
@@ -25,7 +27,8 @@
       "name": "Ножка_1", 
       "text": "r3",
       "size": [100, 100, 100],
-      "price": "300"
+      "price": "300",
+      "count": "0"
     },
     { "id": 3, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/MN-189_22855.jpg",
@@ -34,7 +37,8 @@
       "name": "Ножка_2", 
       "text": "Text",
       "size": [100, 100, 100],
-      "price": "400"
+      "price": "400",
+      "count": "0"
     },
     { "id": 4, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/L-122_22869.jpg",
@@ -43,7 +47,8 @@
       "name": "Столб для лестницы 1", 
       "text": "r3",
       "size": [100, 100, 100],
-      "price": "500"
+      "price": "500",
+      "count": "0"
     },
     { "id": 5, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/L-121.1_22876.jpg",
@@ -52,7 +57,8 @@
       "name": "Столб для лестницы 2", 
       "text": "r3",
       "size": [100, 100, 100],
-      "price": "600"
+      "price": "600",
+      "count": "0"
     },
     { "id": 6, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/MLDPU-002U-(1).jpg",
@@ -61,7 +67,8 @@
       "name": "Молдинг_1", 
       "text": "Text",
       "size": [100, 100, 100],
-      "price": "100"
+      "price": "100",
+      "count": "0"
     },
     { "id": 7, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/NPU-408.jpg",
@@ -70,7 +77,8 @@
       "name": "Молдинг_2", 
       "text": "r3",
       "size": [100, 100, 100],
-      "price": "200"
+      "price": "200",
+      "count": "0"
     },
     { "id": 8, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/556cf849a8d211e7941200155d01ca01_abb0438bb8a011e7ba0300155d01ca01.jpg",
@@ -79,7 +87,8 @@
       "name": "Капитель_1", 
       "text": "r3",
       "size": [100, 100, 100],
-      "price": "300"
+      "price": "300",
+      "count": "0"
     },
     { "id": 9, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/a13191e1a88711e7941200155d01ca01_fa82bd80b89e11e7ba0300155d01ca01.jpg",
@@ -88,7 +97,8 @@
       "name": "Капитель_1", 
       "text": "Text",
       "size": [100, 100, 100],
-      "price": "400"
+      "price": "400",
+      "count": "0"
     },
     { "id": 10, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/NPU-095(1).jpg",
@@ -97,7 +107,8 @@
       "name": "Накладка_1", 
       "text": "r3",
       "size": [100, 100, 100],
-      "price": "500"
+      "price": "500",
+      "count": "0"
     },
     { "id": 11, 
       "imageUrl": "https://stavrosdecor.com/uploads/products/NPU-462.1_22654.jpg",
@@ -106,7 +117,8 @@
       "name": "Накладка_2", 
       "text": "r3",
       "size": [100, 100, 100],
-      "price": "600"
+      "price": "600",
+      "count": "0"
     }
   ],
 
